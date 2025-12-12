@@ -6,7 +6,7 @@ This repository serves as a collection of my Artificial Intelligence and Machine
 ## 📂 Repository Structure
 The core of this repository consists of the Colab notebooks, where the code, experiments, and results for each project are documented.
 
-* **Jupyter Notebooks:** Each project is contained within one or more **Jupyter Notebooks** (viewable directly on GitHub). These notebooks typically include:
+* **Jupyter Notebooks:** Each project is contained within one **Jupyter Notebooks** (viewable directly on GitHub). These notebooks typically include:
 * Data loading and preprocessing steps.
 * Model architecture definition and training loops.
 * Evaluation metrics and result visualizations (if needed).
@@ -20,9 +20,9 @@ Since these projects were developed in Google Colab, the easiest way to explore 
 
 ### 1. View on GitHubYou can simply click on any $`.ipynb` file in the repository to view its rendered content directly on GitHub.
 
-### 2. Open in Google Colab (Recommended)To run the code, make modifications, or utilize Google's free GPU/TPU resources, follow these steps:
+### 2. Open in Google Colab (Recommended) To run the code, make modifications, or utilize Google's free GPU/TPU resources, follow these steps:
 
-1. Navigate to the desired notebook file (e.g., `project_name.ipynb`).
+1. Navigate to the desired notebook file (e.g., `MNIST.ipynb`).
 2. Click the **"Open in Colab"** badge/link (if present at the top of the notebook) or go to the Colab website and upload the notebook from your GitHub repository.
 
 ---
@@ -33,7 +33,7 @@ The projects in this repository utilize a variety of popular AI and data science
 * **Python:** The primary programming language.
 * **Google Colab:** The integrated development environment (IDE) for training and execution.
 * **Frameworks:** **TensorFlow** / **PyTorch** (depending on the project).
-* **Libraries:** **NumPy**, **Pandas**, **scikit-learn**, **Matplotlib**, **Seaborn**, etc.
+* **Libraries:** **torch**, **torchvision** , etc.
 
 ---
 
@@ -45,5 +45,6 @@ While this is a personal training repository, I welcome suggestions and feedback
 
 ## 📚 Included Projects
 The following list have all the AI training projects available in this repository. Click the "Open in Colab" link to immediately launch the notebook in Google Colab for interactive viewing and execution.
+
 ### MNIST Notebook :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamad-Nour-Zureik/YOUR_REPO_NAME/blob/main/MNIST.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamad-Nour-Zureik/AI-Training-Porjects/main/MNIST.ipynb)
