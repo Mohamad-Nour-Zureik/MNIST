@@ -46,5 +46,4 @@ While this is a personal training repository, I welcome suggestions and feedback
 ## 📚 Included Projects
 The following list have all the AI training projects available in this repository. Click the "Open in Colab" link to immediately launch the notebook in Google Colab for interactive viewing and execution.
 
-### MNIST Notebook :
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamad-Nour-Zureik/AI-Training-Porjects/main/MNIST.ipynb)
+### MNIST Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamad-Nour-Zureik/AI-Training-Porjects/blob/main/MNIST.ipynb)
